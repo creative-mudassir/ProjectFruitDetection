@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740973327640",
+    "project_id": "detector-84285",
+    "storage_bucket": "detector-84285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740973327640:android:373f35c6cd11921c9a1a6d",
+        "android_client_info": {
+          "package_name": "com.plateofcode.detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740973327640-7vnfp6m8fi8vpb22on7u2ljtk4p6s3fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4IBur8GTIAG12TqqDXWYtLsorW1Imio4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740973327640-7vnfp6m8fi8vpb22on7u2ljtk4p6s3fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

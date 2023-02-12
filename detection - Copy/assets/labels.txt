@@ -1,0 +1,11 @@
+0 Mango
+1 Apple
+2 Orange
+3 Avocado
+4 Cherry
+5 Kiwi
+6 PineApple
+7 Strawberry
+8 Watermelon
+9 Banana
+10 He is my sweetheart
